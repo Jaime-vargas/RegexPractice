@@ -17,6 +17,13 @@ Este repositorio tiene fines **educativos y de práctica personal**.
 
 ---
 
+## Estructura del proyecto
+- Las soluciones de cada ejercicio estan separadas por clases, MediumDifficult y AdvancedDifficult
+- El texto para evaluar los ejercicios se encuantra dentro de la clase Main en una Lista, donde se ejecutan todos ejercicios y se muestran en consola.
+- Se pueden editar o agregar textos a evaluar para probar las funciones y los patrones Regex.
+  
+---
+
 ## Niveles de dificultad
 
 ### Dificultad MEDIA (10 ejercicios)
